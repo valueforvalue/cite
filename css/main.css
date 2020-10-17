@@ -1,0 +1,54 @@
+#citation {
+  border: 1px solid green ;
+  background-color:  #f2f2f2;
+  text-align: center;
+  padding: 2em;
+}
+
+code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #ffffff;
+  padding: 2px;
+  font-size: 105%;
+}
+
+
+body {
+  background-color:  #d0e1e1;
+}
+
+
+/* THIS IS FOR THE DATA ENTRY FORM */
+
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
