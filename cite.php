@@ -23,11 +23,11 @@
      <div id ="citation">
        <h2>Code to use in the document text:</h2>
        <br>
-      <?php echo "<code>[($namespace:$refname>)]</code>"; ?>
+      <?php echo "<textarea rows='2' cols='30'>[($namespace:$refname>)]</textarea>"; ?>
      <br>
      <h2>Code to use at the page bottom:</h2>
      <br>
-     <?php echo "<code>[($namespace:$refname>[[$link|$linktext]])]</code>"; ?>
+     <?php echo "<textarea rows='2' cols='30'>[($namespace:$refname>[[$link|$linktext]])]</textarea>"; ?>
      <br>
 
      </div>

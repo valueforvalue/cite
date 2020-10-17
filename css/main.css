@@ -5,12 +5,11 @@
   padding: 2em;
 }
 
-code {
+textarea {
   font-family: Consolas,"courier new";
   color: crimson;
   background-color: #ffffff;
   padding: 2px;
-  font-size: 105%;
 }
 
 
